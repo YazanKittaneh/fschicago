@@ -233,7 +233,7 @@ body{color:#888888; background-color:#2E2E2E;}
 a{color:#FF8D2C;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
-.overlay{color:inherit; background-color:rgba(0,0,0,.65);}
+.overlay{color:inherit; background-color:rgba(0,0,0,.45);}
 
 
 /* Rows */
