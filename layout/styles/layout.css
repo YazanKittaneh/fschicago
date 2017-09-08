@@ -237,10 +237,10 @@ label span{color:#FF0000; background-color:inherit;}
 
 
 /* Rows */
-.row0, .row0 a{color:#888888; background-color:#FF8D2C;}
+.row0, .row0 a{color:#888888; background-color:#FFFFFF;}
 .row0{border-color:#D7D7D7;}
 .row1, .row1 a{color:#888888; background-color:#FFFFFF;}
-.row2{color:#FFFFFF; background-color:#161616;}
+.row2{color:#FFFFFF; background-color:#FF8D2C;}
 .row3{color:#888888; background-color:#FFFFFF;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
 .row4{color:#FFFFFF; background-color:#FF8D2C;}
